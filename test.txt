@@ -6,3 +6,4 @@ git log
 git checkout <commit hash code/branch name>
 git branch 
 git checkout -b <branch name>
+touch .gitignore
