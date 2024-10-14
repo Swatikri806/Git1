@@ -1,0 +1,8 @@
+git init 
+git status 
+git add/ git add .
+git commit -m "initial message"
+git log
+git checkout <commit hash code/branch name>
+git branch 
+git checkout -b <branch name>
